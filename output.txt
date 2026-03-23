@@ -1,0 +1,9 @@
+PyTorch Version: 2.9.1+rocm6.4
+Is ROCm/CUDA available? True
+Number of GPUs detected: 1
+Device Name: AMD Radeon RX 9060 XT
+
+Successfully created a tensor on the GPU:
+tensor([[-0.3923, -0.3754, -0.5795],
+        [-0.2227,  0.8928,  0.4978],
+        [ 0.4641,  0.9330,  0.2986]], device='cuda:0')
